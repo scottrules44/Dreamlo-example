@@ -14,7 +14,7 @@ settings =
 	{
 		['plugin.dreamlo'] = 
 	    {
-	    	publisherId = 'com.scottrules44'
+	    	publisherId = 'tech.scotth'
 	    },
 	},
 	iphone =
