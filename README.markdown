@@ -5,4 +5,4 @@ This plugin allows for users to make cross platform leaderboard use the dreamlo 
 
 Click [here](http://www.dreamlo.com/) to website.
 
-Click [here](https://scottrules44.com/plugin#dreamlo) to see docs.
+Click [here](https://scotth.tech/plugin-dreamlo) to see docs.
