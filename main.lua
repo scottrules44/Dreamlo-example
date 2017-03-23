@@ -89,7 +89,7 @@ local function makeButton ( name, group )
                         myText.text = name
                     end )
                 end
-                dreamlo.getScores(nil, handleScore)
+                dreamlo.getScores({}, handleScore)
             end
             box:setFillColor( 0,0,1 )
         elseif e.phase == "moved" or e.phase == "ended" or e.phase == "cancelled" then
